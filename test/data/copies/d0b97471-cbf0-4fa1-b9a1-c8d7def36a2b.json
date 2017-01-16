@@ -1,0 +1,27 @@
+{
+  "_id": "d0b97471-cbf0-4fa1-b9a1-c8d7def36a2b",
+  "UnikId": "string",
+  "FagsystemNavn": "string",
+  "Fodselsnummer": "string",
+  "Fornavn": "string",
+  "Etternavn": "string",
+  "Epost": "string",
+  "Mobilnr": "string",
+  "Skole": "string",
+  "Fylke": "string",
+  "FolkeRegisterAdresse": {
+    "Adresselinje1": "string",
+    "Adresselinje2": "string",
+    "Postnummmer": "string",
+    "Poststed": "string"
+  },
+  "Dokumentelement": {
+    "Dokumenttype": "string",
+    "Dokumenttittel": "string",
+    "DokumentId": "string",
+    "Dokumentdato": "2008-09-29T03:49:45.000Z",
+    "Dokumentfil": "c29ub3Jhcw==",
+    "Tilhorighet": "string",
+    "Info": "string"
+  }
+}
