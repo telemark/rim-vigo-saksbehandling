@@ -1,0 +1,47 @@
+{
+  "name": "rim-vigo-saksbehandling",
+  "description": "Klargjør jobber for arkivering",
+  "version": "1.0.0",
+  "private": true,
+  "author": {
+    "name": "Geir Gåsodden",
+    "email": "geir.gasodden@pythonia.no",
+    "url": "https://github.com/zrrrzzt"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=6.9.4"
+  },
+  "scripts": {
+    "test": "standard && nsp check && tap --reporter=spec test/**/*.js",
+    "test-offline": "standard && tap --reporter=spec test/**/*.js",
+    "coverage": "tap test/**/*.js --coverage",
+    "coveralls": "tap --cov --coverage-report=lcov test/**/*.js && cat coverage/lcov.info | coveralls",
+    "setup": "npm install",
+    "standard-fix": "standard --fix",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "tfk",
+    "Telemark fylkeskommune",
+    "Saksbehandling",
+    "VIGO"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/telemark/rim-vigo-saksbehandling.git"
+  },
+  "bugs": {
+    "url": "http://github.com/telemark/rim-vigo-saksbehandling/issues"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "coveralls": "2.11.15",
+    "nsp": "2.6.2",
+    "standard": "8.6.0",
+    "tap": "9.0.3"
+  },
+  "dependencies": {
+    "is-directory": "0.3.1"
+  }
+}
