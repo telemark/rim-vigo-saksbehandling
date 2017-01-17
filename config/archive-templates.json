@@ -1,0 +1,54 @@
+{
+  "soknadInn": {
+    "Title": "Søknad - skoleplass – vigo – ",
+    "Year": false,
+    "SchoolYear": true,
+    "Category": "Dokument inn",
+    "AccessCode": "13",
+    "Paragraph": "Offl §13 jfr Fvl §13.1",
+    "Avsender": true,
+    "Mottaker": false,
+    "AccessGroup": "TFK-robot",
+    "Ansvarlig": "Telemark fylkeskommune",
+    "Status": "Journalført"
+  },
+  "soknadResultat": {
+    "Title": "Resultat av søknad til videregående opplæring skoleåret ",
+    "Year": false,
+    "SchoolYear": true,
+    "Category": "Dokument ut",
+    "AccessCode": "13",
+    "Paragraph": "Offl §13 jfr Fvl §13.1",
+    "Avsender": false,
+    "Mottaker": true,
+    "AccessGroup": "TFK-robot",
+    "Ansvarlig": "Telemark fylkeskommune",
+    "Status": "Journalført"
+  },
+  "soknadResultatSvar": {
+    "Title": "Søkerens svar på resultatet av søknad til videregående opplæring skoleåret  ",
+    "Year": false,
+    "SchoolYear": true,
+    "Category": "Dokument inn",
+    "AccessCode": "13",
+    "Paragraph": "Offl §13 jfr Fvl §13.1",
+    "Avsender": true,
+    "Mottaker": false,
+    "AccessGroup": "TFK-robot",
+    "Ansvarlig": "Telemark fylkeskommune",
+    "Status": "Journalført"
+  },
+  "formidlingsstatus": {
+    "Title": "Formidlingsstatus ",
+    "Year": true,
+    "SchoolYear": false,
+    "Category": "Dokument inn",
+    "AccessCode": "13",
+    "Paragraph": "Offl §13 jfr Fvl §13.1",
+    "Avsender": true,
+    "Mottaker": false,
+    "AccessGroup": "TFK-robot",
+    "Ansvarlig": "Telemark fylkeskommune",
+    "Status": "Journalført"
+  }
+}
