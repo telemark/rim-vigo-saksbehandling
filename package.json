@@ -2,6 +2,7 @@
   "name": "rim-vigo-saksbehandling",
   "description": "Prepares documents for archive",
   "version": "1.0.0",
+  "license": "MIT",
   "private": true,
   "author": {
     "name": "Geir Gåsodden",
@@ -34,7 +35,9 @@
   "bugs": {
     "url": "http://github.com/telemark/rim-vigo-saksbehandling/issues"
   },
-  "license": "MIT",
+  "greenkeeper": {
+    "emails": false
+  },
   "devDependencies": {
     "coveralls": "2.11.15",
     "nsp": "2.6.2",
