@@ -1,6 +1,6 @@
 {
   "name": "rim-vigo-saksbehandling",
-  "description": "Klargjør jobber for arkivering",
+  "description": "Prepares documents for archive",
   "version": "1.0.0",
   "private": true,
   "author": {
