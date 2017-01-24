@@ -16,7 +16,7 @@
     "Poststed": "string"
   },
   "Dokumentelement": {
-    "Dokumenttype": "string",
+    "Dokumenttype": "SOKER_N",
     "Dokumenttittel": "string",
     "DokumentId": "string",
     "Dokumentdato": "2008-09-29T03:49:45.000Z",
