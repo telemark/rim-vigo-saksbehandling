@@ -9,7 +9,8 @@
     "AccessGroup": "TFK-robot",
     "NoarkClassificationCode": "B31",
     "Ansvarlig": "Telemark fylkeskommune",
-    "Status": "Journalført"
+    "Status": "J",
+    "includeDocuments": false
   },
   "SOKER_E": {
     "Title": "Endret elev",
@@ -21,10 +22,11 @@
     "AccessGroup": "TFK-robot",
     "NoarkClassificationCode": "B31",
     "Ansvarlig": "Telemark fylkeskommune",
-    "Status": "Journalført"
+    "Status": "J",
+    "includeDocuments": false
   },
   "SOKNAD": {
-    "Title": "Søknad – videregående opplæring -",
+    "Title": "Vigosøknad – videregående opplæring -",
     "Year": false,
     "SchoolYear": true,
     "Category": "Dokument inn",
@@ -33,10 +35,11 @@
     "AccessGroup": "TFK-robot",
     "NoarkClassificationCode": "B31",
     "Ansvarlig": "Telemark fylkeskommune",
-    "Status": "Journalført"
+    "Status": "J",
+    "includeDocuments": true
   },
   "TILBUD": {
-    "Title": "Resultat av søknad til videregående opplæring skoleåret",
+    "Title": "Tilbud - skoleplass - videregående opplæring - vigo -",
     "Year": false,
     "SchoolYear": true,
     "Category": "Dokument ut",
@@ -45,10 +48,11 @@
     "AccessGroup": "TFK-robot",
     "NoarkClassificationCode": "B31",
     "Ansvarlig": "Telemark fylkeskommune",
-    "Status": "Journalført"
+    "Status": "J",
+    "includeDocuments": true
   },
   "SVAR": {
-    "Title": "Søkerens svar på resultatet av søknad til videregående opplæring skoleåret",
+    "Title": "Søkerens svar - vigosøknad - videregående opplæring -",
     "Year": false,
     "SchoolYear": true,
     "Category": "Dokument inn",
@@ -57,7 +61,8 @@
     "AccessGroup": "TFK-robot",
     "NoarkClassificationCode": "B31",
     "Ansvarlig": "Telemark fylkeskommune",
-    "Status": "Journalført"
+    "Status": "J",
+    "includeDocuments": true
   },
   "FORMIDL": {
     "Title": "Resultat av formidling til læreplass -",
@@ -69,6 +74,7 @@
     "AccessGroup": "TFK-robot",
     "NoarkClassificationCode": "B31",
     "Ansvarlig": "Telemark fylkeskommune",
-    "Status": "Journalført"
+    "Status": "J",
+    "includeDocuments": true
   }
 }
