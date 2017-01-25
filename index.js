@@ -18,7 +18,6 @@ getNextJobFromQueue()
   .then(updateStatus)
   .then((data) => {
     logger('finished')
-    process.exit(0)
   })
   .catch((error) => {
     logger(['error', JSON.stringify(error)])
