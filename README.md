@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/telemark/rim-vigo-saksbehandling.svg?branch=master)](https://travis-ci.org/telemark/rim-vigo-saksbehandling)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 # rim-vigo-saksbehandling
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/rim-vigo-saksbehandling.svg)](https://greenkeeper.io/)
 Prepares documents for archive.
 
 ## Config
