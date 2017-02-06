@@ -43,7 +43,6 @@
   },
   "dependencies": {
     "firebase-save": "2.1.0",
-    "get-skole-aar": "1.0.0",
-    "tfk-schools-info": "1.2.0"
+    "get-skole-aar": "1.0.0"
   }
 }
