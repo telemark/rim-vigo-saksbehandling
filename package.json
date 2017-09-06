@@ -1,7 +1,7 @@
 {
   "name": "rim-vigo-saksbehandling",
   "description": "Prepares documents for archive",
-  "version": "1.4.10",
+  "version": "1.4.11",
   "license": "MIT",
   "private": true,
   "author": {
