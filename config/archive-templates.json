@@ -82,5 +82,19 @@
     "Ansvarlig": "Telemark fylkeskommune",
     "Status": "J",
     "includeDocuments": true
+  },
+  "KONTRAKT": {
+    "Title": "Signert kontrakt læreplass -",
+    "Year": true,
+    "SchoolYear": true,
+    "Category": "Dokument inn",
+    "SignOff": true,
+    "AccessCode": "13",
+    "Paragraph": "Offl §13 jfr Fvl §13.1",
+    "AccessGroup": "TFK-robot",
+    "NoarkClassificationCode": "B31",
+    "Ansvarlig": "Telemark fylkeskommune",
+    "Status": "J",
+    "includeDocuments": true
   }
 }
