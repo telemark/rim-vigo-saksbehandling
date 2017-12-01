@@ -18,7 +18,7 @@
   ],
   "main": "index.js",
   "engines": {
-    "node": ">=7.7.2"
+    "node": ">=8.9.1"
   },
   "scripts": {
     "test": "standard && nsp check && tap --reporter=spec test/**/*.js",
@@ -42,7 +42,7 @@
   "bugs": {
     "url": "https://github.com/telemark/rim-vigo-saksbehandling/issues"
   },
-  "homepage": "https://github.com/telemark/rim-vigo-saksbehandling",
+  "homepage": "https://github.com/telemark/rim-vigo-saksbehandling#readme",
   "devDependencies": {
     "coveralls": "3.0.0",
     "nsp": "3.1.0",
