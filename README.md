@@ -29,7 +29,7 @@ $ docker build -t rim-vigo-saksbehandling .
 ### Usage
 
 ```bash
-$ docker run --env-file=docker.env --volume=/test/data:/src/test/data --rm rrim-vigo-saksbehandling
+$ docker run --env-file=docker.env --volume=/test/data:/src/test/data --rm rim-vigo-saksbehandling
 ```
 
 or from pre-built image
