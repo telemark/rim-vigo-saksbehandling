@@ -84,9 +84,9 @@
     "includeDocuments": true
   },
   "KONTRAKT": {
-    "Title": "Signert kontrakt læreplass -",
+    "Title": "Lærekontrakt – elektronisk signert -",
     "Year": true,
-    "SchoolYear": true,
+    "SchoolYear": false,
     "Category": "Dokument inn",
     "SignOff": true,
     "AccessCode": "13",
