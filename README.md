@@ -15,7 +15,6 @@ ARCHIVE_DIRECTORY_PATH=test/data/archive
 DONE_DIRECTORY_PATH=test/data/done
 ERRORS_DIRECTORY_PATH=test/data/errors
 QUEUE_DIRECTORY_PATH=test/data/queue
-FIREBASE_URL=firebase-url
 ```
 
 ## Docker
@@ -49,6 +48,9 @@ $ docker run --env-file=docker.env --volume=/test/data:/src/test/data --rm telem
 - [rim-vigo-data-pull](https://github.com/telemark/rim-vigo-data-pull) Pulls data from VIGO
 - [rim-laurentius](https://github.com/telemark/rim-laurentius) Archives the formatted data to Public360
 - [rim-vigo-update-status](https://github.com/telemark/rim-vigo-update-status) Updates archive status for document
+- [rim-service-client](https://github.com/telemark/rim-service-client) Module for connecting ISI-lokal
+- [robot-stats](https://github.com/telemark/robot-stats) Collect stats for your dashboard
+- [next-dashboard-rambo](https://github.com/telemark/next-dashboard-rambo) Dashboard for RAMBO
 
 ## License
 

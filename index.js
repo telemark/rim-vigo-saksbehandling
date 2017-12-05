@@ -1,5 +1,3 @@
-'use strict'
-
 const getNextJobFromQueue = require('./lib/get-next-job-from-queue')
 const getFileData = require('./lib/get-file-data')
 const formatDocument = require('./lib/format-document')
