@@ -84,14 +84,14 @@
     "includeDocuments": true
   },
   "KONTRAKT": {
-    "Title": "Lærekontrakt – elektronisk signert -",
+    "Title": "Godkjent lærekontrakt – elektronisk signert -",
     "Year": true,
     "SchoolYear": false,
-    "Category": "Dokument inn",
+    "Category": "Dokument ut",
     "SignOff": true,
     "AccessCode": "13",
     "Paragraph": "Offl §13 jfr Fvl §13.1",
-    "AccessGroup": "TFK-robot",
+    "AccessGroup": "Fagopplæring",
     "NoarkClassificationCode": "B31",
     "Ansvarlig": "Telemark fylkeskommune",
     "Status": "J",
