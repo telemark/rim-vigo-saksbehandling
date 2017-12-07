@@ -11,7 +11,8 @@
     "NoarkClassificationCode": "B31",
     "Ansvarlig": "Telemark fylkeskommune",
     "Status": "J",
-    "includeDocuments": false
+    "includeDocuments": false,
+    "ResponsiblePersonRecno": "200333"
   },
   "SOKER_E": {
     "Title": "Endret elev",
@@ -25,7 +26,8 @@
     "NoarkClassificationCode": "B31",
     "Ansvarlig": "Telemark fylkeskommune",
     "Status": "J",
-    "includeDocuments": false
+    "includeDocuments": false,
+    "ResponsiblePersonRecno": "200333"
   },
   "SOKNAD": {
     "Title": "Vigosøknad – videregående opplæring -",
@@ -39,7 +41,8 @@
     "NoarkClassificationCode": "B31",
     "Ansvarlig": "Telemark fylkeskommune",
     "Status": "J",
-    "includeDocuments": true
+    "includeDocuments": true,
+    "ResponsiblePersonRecno": "200333"
   },
   "TILBUD": {
     "Title": "Tilbud - skoleplass - videregående opplæring - vigo -",
@@ -53,7 +56,8 @@
     "NoarkClassificationCode": "B31",
     "Ansvarlig": "Telemark fylkeskommune",
     "Status": "J",
-    "includeDocuments": true
+    "includeDocuments": true,
+    "ResponsiblePersonRecno": "200333"
   },
   "SVAR": {
     "Title": "Søkerens svar - vigosøknad - videregående opplæring -",
@@ -67,7 +71,8 @@
     "NoarkClassificationCode": "B31",
     "Ansvarlig": "Telemark fylkeskommune",
     "Status": "J",
-    "includeDocuments": true
+    "includeDocuments": true,
+    "ResponsiblePersonRecno": "200333"
   },
   "FORMIDL": {
     "Title": "Resultat av formidling til læreplass -",
@@ -81,7 +86,8 @@
     "NoarkClassificationCode": "B31",
     "Ansvarlig": "Telemark fylkeskommune",
     "Status": "J",
-    "includeDocuments": true
+    "includeDocuments": true,
+    "ResponsiblePersonRecno": "200333"
   },
   "KONTRAKT": {
     "Title": "Godkjent lærekontrakt – elektronisk signert -",
@@ -95,6 +101,7 @@
     "NoarkClassificationCode": "B31",
     "Ansvarlig": "Telemark fylkeskommune",
     "Status": "J",
-    "includeDocuments": true
+    "includeDocuments": true,
+    "ResponsibleEnterpriseRecno": "210445"
   }
 }
