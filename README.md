@@ -12,6 +12,8 @@ docker.env
 
 ```bash
 ARCHIVE_DIRECTORY_PATH=test/data/archive
+CALLBACK_API_URL=https://httpbin.org/anything
+CALLBACK_DIRECTORY_PATH=test/directories/callback
 DONE_DIRECTORY_PATH=test/data/done
 ERRORS_DIRECTORY_PATH=test/data/errors
 QUEUE_DIRECTORY_PATH=test/data/queue
