@@ -1,6 +1,5 @@
 [![Build Status](https://travis-ci.org/telemark/rim-vigo-saksbehandling.svg?branch=master)](https://travis-ci.org/telemark/rim-vigo-saksbehandling)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
-[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/rim-vigo-saksbehandling.svg)](https://greenkeeper.io/)
 
 # rim-vigo-saksbehandling
 
@@ -57,5 +56,3 @@ $ docker run --env-file=docker.env --volume=/test/data:/src/test/data --rm telem
 ## License
 
 [MIT](LICENSE)
-
-![Robohash image of rim-vigo-saksbehandling](https://robots.kebabstudios.party/rim-vigo-saksbehandling.png "Robohash image of rim-vigo-saksbehandling")
